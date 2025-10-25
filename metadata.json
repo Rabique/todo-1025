@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Todo Pro",
+  "description": "A sleek and modern todo application to help you organize your tasks with ease. Built with React, TypeScript, and Tailwind CSS for a beautiful and responsive user experience.",
+  "requestFramePermissions": []
+}
